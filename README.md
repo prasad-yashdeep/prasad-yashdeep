@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashdeep Prasad</h1>
-<h3 align="center">Computer Science Graduate @IIITD. Blockchain & ML Enthusiast !!</h3>
+<h3 align="center">Computer Science Graduate @NYU. AI&ML Enthusiast !!</h3>
 
 - 🔭 I’m currently working on **Agentic Systems using Large Language Models**
 - Have experience with **full stack development**
